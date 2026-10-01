@@ -1,0 +1,550 @@
+{
+  "generator": "lumicorepro-design-engine",
+  "project": "tablehost-ai",
+  "style": "editorial",
+  "generated_at": "2026-09-21T02:29:15Z",
+  "license": "All assets are self-generated original vector artwork (public-domain equivalent). No stock, no scraped, and no copyrighted material.",
+  "count": 27,
+  "assets": [
+    {
+      "file": "assets/editorial/hero/hero-1.svg",
+      "category": "hero",
+      "style": "editorial",
+      "title": "Tablehost Ai Hero",
+      "prompt": "Abstract hero for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/hero/hero-2.svg",
+      "category": "hero",
+      "style": "editorial",
+      "title": "Tablehost Ai Hero",
+      "prompt": "Abstract hero for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/hero/hero-3.svg",
+      "category": "hero",
+      "style": "editorial",
+      "title": "Tablehost Ai Hero",
+      "prompt": "Abstract hero for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/hero/hero-4.svg",
+      "category": "hero",
+      "style": "editorial",
+      "title": "Tablehost Ai Hero",
+      "prompt": "Abstract hero for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-1.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 1",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-2.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 2",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-3.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 3",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-4.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 4",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-5.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 5",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-6.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 6",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-7.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 7",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-8.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 8",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-9.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 9",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-10.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 10",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-11.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 11",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/icons/icon-12.svg",
+      "category": "icons",
+      "style": "editorial",
+      "title": "Tablehost Ai Icons Icon 12",
+      "prompt": "Abstract icons for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/backgrounds/bg-1.svg",
+      "category": "backgrounds",
+      "style": "editorial",
+      "title": "Tablehost Ai Backgrounds Background 1",
+      "prompt": "Abstract backgrounds for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/backgrounds/bg-2.svg",
+      "category": "backgrounds",
+      "style": "editorial",
+      "title": "Tablehost Ai Backgrounds Background 2",
+      "prompt": "Abstract backgrounds for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/backgrounds/bg-3.svg",
+      "category": "backgrounds",
+      "style": "editorial",
+      "title": "Tablehost Ai Backgrounds Background 3",
+      "prompt": "Abstract backgrounds for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/illustrations/illustration-1.svg",
+      "category": "illustrations",
+      "style": "editorial",
+      "title": "Tablehost Ai Illustrations Illustration 1",
+      "prompt": "Abstract illustrations for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/illustrations/illustration-2.svg",
+      "category": "illustrations",
+      "style": "editorial",
+      "title": "Tablehost Ai Illustrations Illustration 2",
+      "prompt": "Abstract illustrations for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/illustrations/illustration-3.svg",
+      "category": "illustrations",
+      "style": "editorial",
+      "title": "Tablehost Ai Illustrations Illustration 3",
+      "prompt": "Abstract illustrations for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/illustrations/illustration-4.svg",
+      "category": "illustrations",
+      "style": "editorial",
+      "title": "Tablehost Ai Illustrations Illustration 4",
+      "prompt": "Abstract illustrations for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/illustrations/illustration-5.svg",
+      "category": "illustrations",
+      "style": "editorial",
+      "title": "Tablehost Ai Illustrations Illustration 5",
+      "prompt": "Abstract illustrations for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/mockups/mockup-1.svg",
+      "category": "mockups",
+      "style": "editorial",
+      "title": "Tablehost Ai Mockups UI Mockup 1",
+      "prompt": "Abstract mockups for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/mockups/mockup-2.svg",
+      "category": "mockups",
+      "style": "editorial",
+      "title": "Tablehost Ai Mockups UI Mockup 2",
+      "prompt": "Abstract mockups for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    },
+    {
+      "file": "assets/editorial/mockups/mockup-3.svg",
+      "category": "mockups",
+      "style": "editorial",
+      "title": "Tablehost Ai Mockups UI Mockup 3",
+      "prompt": "Abstract mockups for a Editorial / Magazine styled website; palette #7f1d1d, #78350f, #0f766e, #fafaf8, #ffffff, #f4f1ea, #1c1917, #78716c, #e7e5e4; large serif headlines, multi-column text, print whitespace.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#7f1d1d",
+        "#78350f",
+        "#0f766e",
+        "#fafaf8",
+        "#ffffff",
+        "#f4f1ea",
+        "#1c1917",
+        "#78716c",
+        "#e7e5e4"
+      ],
+      "seed": 3780200468
+    }
+  ]
+}
